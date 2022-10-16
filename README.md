@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kitkinz
-- 👀 I’m interested in Powerlifting
+- 👀 I’m interested in Bodybuilding, Powerlifting and MMA
 - 🌱 I’m currently learning how to sleep with my eyes open
-- 💞️ I’m looking to collaborate on reverting 'main' to 'master' because it's more offensive
+- 💞️ I’m looking to collaborate on reverting 'main' back to 'master' because it's more offensive
 - 📫 How to reach me: Yell 'Too dirty' to Filipinos online
 
 <!---
