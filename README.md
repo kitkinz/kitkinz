@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kitkinz
+- 👋 Hi, I’m @kit
 - 👀 I’m interested in Bodybuilding, Powerlifting and MMA
 - 🌱 I’m currently learning how to sleep with my eyes open
 - 💞️ I’m looking to collaborate on reverting 'main' back to 'master' because it's more offensive
