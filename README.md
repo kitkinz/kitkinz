@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kit
-- 👀 I’m interested in Bodybuilding, Powerlifting and MMA
+- 👀 I’m interested in strength training and combat sports
 - 🌱 I’m currently learning how to sleep with my eyes open
-- 💞️ I’m looking to collaborate on reverting 'main' back to 'master' because it's more offensive
-- 📫 How to reach me: Yell 'Too dirty' to Filipinos online
+- 💞️ I’m looking to collaborate on reverting 'main' back to 'master' just because
 
 <!---
 kitkinz/kitkinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
