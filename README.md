@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kit
-- 👀 I’m interested in strength training and combat sports
-- 🌱 I’m currently learning how to sleep with my eyes open
+- 👀 I’m interested in Barlig
+- 🌱 I’m currently learning about .NET
 - 💞️ I’m looking to collaborate on reverting 'main' back to 'master' just because
 
 <!---
