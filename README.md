@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @kit
-- 👀 I’m interested in Barlig
 - 🌱 I’m currently learning about .NET
-- 💞️ I’m looking to collaborate on reverting 'main' back to 'master' just because
 
 <!---
 kitkinz/kitkinz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
